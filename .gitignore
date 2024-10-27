@@ -1,0 +1,17 @@
+# Ignore Visual Studio temporary files, build results, and
+# package management files.
+*.log
+*.obj
+*.bin
+*.user
+*.rsuser
+*.suo
+*.cache
+*.pdb
+*.ilk
+*.aps
+*.ncb
+*.opensdf
+*.sdf
+*.unsuccessfulbuild
+.vs/

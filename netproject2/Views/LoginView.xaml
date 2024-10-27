@@ -1,0 +1,30 @@
+﻿<Window x:Class="netproject2.Views.LoginView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:netproject2.ViewModels" 
+        mc:Ignorable="d"
+        Title="LoginView" Height="450" Width="800">
+    <Window.DataContext>
+        <local:LoginViewModel />
+    </Window.DataContext>
+
+    <StackPanel Width="220"
+                Orientation="Vertical"
+                Margin="290,69,290,0">
+        <TextBlock Text="UniManage" HorizontalAlignment="Center"/>
+        
+        <TextBlock Text="Email" Margin="0,35,0,0"/>
+        <TextBox x:Name="txtUser" Height="28" VerticalContentAlignment="Center" 
+                 Margin="0,5,0,0" Text="{Binding Email, UpdateSourceTrigger=PropertyChanged}"/>
+
+        <TextBlock Text="Password" Margin="0,15,0,0"/>
+        <PasswordBox x:Name="txtPass" Height="28" VerticalContentAlignment="Center"
+                     Margin="0,5,0,0" PasswordChanged="PasswordBox_PasswordChanged"/>
+        
+        <Button x:Name="btnLogin" Content="LOG IN" Margin="0,50,0,0" 
+                Command="{Binding LoginCommand}"/>
+        <Button Content="REGISTER" Command="{Binding RegisterCommand}" Margin="0,25,0,0"/>
+    </StackPanel>
+</Window>

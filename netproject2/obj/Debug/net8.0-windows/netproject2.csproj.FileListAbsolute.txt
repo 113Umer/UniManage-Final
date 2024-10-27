@@ -1,0 +1,285 @@
+C:\Users\fatin\source\repos\netproject2\netproject2\obj\Debug\net8.0-windows\netproject2.csproj.AssemblyReference.cache
+C:\Users\fatin\source\repos\netproject2\netproject2\obj\Debug\net8.0-windows\Views\AddSubjectsView.g.cs
+C:\Users\fatin\source\repos\netproject2\netproject2\obj\Debug\net8.0-windows\Views\EditSubjectView.g.cs
+C:\Users\fatin\source\repos\netproject2\netproject2\obj\Debug\net8.0-windows\Views\LoginView.g.cs
+C:\Users\fatin\source\repos\netproject2\netproject2\obj\Debug\net8.0-windows\Views\SignUp.g.cs
+C:\Users\fatin\source\repos\netproject2\netproject2\obj\Debug\net8.0-windows\Views\SubjectDashboard.g.cs
+C:\Users\fatin\source\repos\netproject2\netproject2\obj\Debug\net8.0-windows\Views\SubjectsView.g.cs
+C:\Users\fatin\source\repos\netproject2\netproject2\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\fatin\source\repos\netproject2\netproject2\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\fatin\source\repos\netproject2\netproject2\obj\Debug\net8.0-windows\netproject2_MarkupCompile.cache
+C:\Users\fatin\source\repos\netproject2\netproject2\obj\Debug\net8.0-windows\netproject2_MarkupCompile.lref
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\NUnit3.TestAdapter.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\NUnit3.TestAdapter.pdb
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\nunit.engine.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\nunit.engine.api.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\nunit.engine.core.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\testcentric.engine.metadata.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\netproject2.exe
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\netproject2.deps.json
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\netproject2.runtimeconfig.json
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\netproject2.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\netproject2.pdb
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\BouncyCastle.Crypto.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\Ubiety.Dns.Core.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\Zstandard.Net.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\MySql.Data.EntityFrameworkCore.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\MySqlConnector.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\nunit.framework.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\Renci.SshNet.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\SshNet.Security.Cryptography.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\System.Xml.XPath.XmlDocument.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\bin\Debug\net8.0-windows\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\obj\Debug\net8.0-windows\App.baml
+C:\Users\fatin\source\repos\netproject2\netproject2\obj\Debug\net8.0-windows\Views\AddSubjectsView.baml
+C:\Users\fatin\source\repos\netproject2\netproject2\obj\Debug\net8.0-windows\Views\EditSubjectView.baml
+C:\Users\fatin\source\repos\netproject2\netproject2\obj\Debug\net8.0-windows\Views\LoginView.baml
+C:\Users\fatin\source\repos\netproject2\netproject2\obj\Debug\net8.0-windows\Views\SignUp.baml
+C:\Users\fatin\source\repos\netproject2\netproject2\obj\Debug\net8.0-windows\Views\SubjectDashboard.baml
+C:\Users\fatin\source\repos\netproject2\netproject2\obj\Debug\net8.0-windows\Views\SubjectsView.baml
+C:\Users\fatin\source\repos\netproject2\netproject2\obj\Debug\net8.0-windows\netproject2.g.resources
+C:\Users\fatin\source\repos\netproject2\netproject2\obj\Debug\net8.0-windows\netproject2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatin\source\repos\netproject2\netproject2\obj\Debug\net8.0-windows\netproject2.AssemblyInfoInputs.cache
+C:\Users\fatin\source\repos\netproject2\netproject2\obj\Debug\net8.0-windows\netproject2.AssemblyInfo.cs
+C:\Users\fatin\source\repos\netproject2\netproject2\obj\Debug\net8.0-windows\netproject2.csproj.CoreCompileInputs.cache
+C:\Users\fatin\source\repos\netproject2\netproject2\obj\Debug\net8.0-windows\netproject2.sourcelink.json
+C:\Users\fatin\source\repos\netproject2\netproject2\obj\Debug\net8.0-windows\netproje.E441947F.Up2Date
+C:\Users\fatin\source\repos\netproject2\netproject2\obj\Debug\net8.0-windows\netproject2.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\obj\Debug\net8.0-windows\refint\netproject2.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\obj\Debug\net8.0-windows\netproject2.pdb
+C:\Users\fatin\source\repos\netproject2\netproject2\obj\Debug\net8.0-windows\netproject2.genruntimeconfig.cache
+C:\Users\fatin\source\repos\netproject2\netproject2\obj\Debug\net8.0-windows\ref\netproject2.dll
+C:\Users\fatin\source\repos\netproject2\netproject2\obj\Debug\net8.0-windows\Views\AssignmentsView.g.cs
+C:\Users\fatin\source\repos\netproject2\netproject2\obj\Debug\net8.0-windows\Views\AssignmentsView.baml
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\NUnit3.TestAdapter.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\nunit.engine.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\nunit.engine.api.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\nunit.engine.core.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\testcentric.engine.metadata.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\NUnit3.TestAdapter.pdb
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\netproject2.exe
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\netproject2.deps.json
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\netproject2.runtimeconfig.json
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\netproject2.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\netproject2.pdb
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\BouncyCastle.Crypto.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\Google.Protobuf.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\Humanizer.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\MySql.Data.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\Ubiety.Dns.Core.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\Zstandard.Net.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\MySql.Data.EntityFrameworkCore.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\MySqlConnector.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\nunit.framework.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\Renci.SshNet.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\SshNet.Security.Cryptography.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\System.Xml.XPath.XmlDocument.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\bin\Debug\net8.0-windows\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\obj\Debug\net8.0-windows\netproject2.csproj.AssemblyReference.cache
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\obj\Debug\net8.0-windows\Views\AddSubjectsView.g.cs
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\obj\Debug\net8.0-windows\Views\AssignmentsView.g.cs
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\obj\Debug\net8.0-windows\Views\EditSubjectView.g.cs
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\obj\Debug\net8.0-windows\Views\LoginView.g.cs
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\obj\Debug\net8.0-windows\Views\SignUp.g.cs
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\obj\Debug\net8.0-windows\Views\SubjectDashboard.g.cs
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\obj\Debug\net8.0-windows\Views\SubjectsView.g.cs
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\obj\Debug\net8.0-windows\App.g.cs
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\obj\Debug\net8.0-windows\netproject2_MarkupCompile.cache
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\obj\Debug\net8.0-windows\netproject2_MarkupCompile.lref
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\obj\Debug\net8.0-windows\App.baml
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\obj\Debug\net8.0-windows\Views\AddSubjectsView.baml
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\obj\Debug\net8.0-windows\Views\AssignmentsView.baml
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\obj\Debug\net8.0-windows\Views\EditSubjectView.baml
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\obj\Debug\net8.0-windows\Views\LoginView.baml
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\obj\Debug\net8.0-windows\Views\SignUp.baml
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\obj\Debug\net8.0-windows\Views\SubjectDashboard.baml
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\obj\Debug\net8.0-windows\Views\SubjectsView.baml
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\obj\Debug\net8.0-windows\netproject2.g.resources
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\obj\Debug\net8.0-windows\netproject2.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\obj\Debug\net8.0-windows\netproject2.AssemblyInfoInputs.cache
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\obj\Debug\net8.0-windows\netproject2.AssemblyInfo.cs
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\obj\Debug\net8.0-windows\netproject2.csproj.CoreCompileInputs.cache
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\obj\Debug\net8.0-windows\netproje.E441947F.Up2Date
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\obj\Debug\net8.0-windows\netproject2.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\obj\Debug\net8.0-windows\refint\netproject2.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\obj\Debug\net8.0-windows\netproject2.pdb
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\obj\Debug\net8.0-windows\netproject2.genruntimeconfig.cache
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\obj\Debug\net8.0-windows\ref\netproject2.dll
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\obj\Debug\net8.0-windows\Views\NewAssignmentWindow.baml
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\obj\Debug\net8.0-windows\Views\EditAssignmentWindow.g.cs
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\obj\Debug\net8.0-windows\Views\NewAssignmentWindow.g.cs
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\obj\Debug\net8.0-windows\Views\StudentInfoView.g.cs
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\obj\Debug\net8.0-windows\Views\EditAssignmentWindow.baml
+D:\University\Fiverr\20th Oct Onwards\WPF WORK\New\netproject2-main\netproject2\obj\Debug\net8.0-windows\Views\StudentInfoView.baml

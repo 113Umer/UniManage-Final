@@ -1,0 +1,25 @@
+﻿<Window x:Class="netproject2.Views.EditSubjectView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:netproject2.Views"
+        mc:Ignorable="d"
+        Title="Edit Subject" Height="450" Width="800">
+    <Grid>
+        <StackPanel>
+            <TextBlock Text="Edit Subject" FontSize="24" FontWeight="Bold" HorizontalAlignment="Center" Margin="0,10" />
+
+            <TextBlock Text="Subject Name:" FontSize="16" Margin="0,10,0,5" />
+            <TextBox Text="{Binding SelectedSubject.SubjectName}" FontSize="14" Height="30" Margin="0,0,0,20" />
+
+            <TextBlock Text="Description:" FontSize="16" Margin="0,10,0,5" />
+            <TextBox Text="{Binding SelectedSubject.Description}" FontSize="14" Height="80" AcceptsReturn="True" VerticalScrollBarVisibility="Auto" TextWrapping="Wrap" />
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="20,20,0,0">
+                <Button Content="Modify" Command="{Binding ModifyCommand}" CommandParameter="{Binding RelativeSource={RelativeSource AncestorType=Window}}" Width="150" Height="40" Margin="10" />
+                <Button Content="Cancel" Command="{Binding CancelCommand}" CommandParameter="{Binding RelativeSource={RelativeSource AncestorType=Window}}" Width="150" Height="40" Margin="10" />
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>
