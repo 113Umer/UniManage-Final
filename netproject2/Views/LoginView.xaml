@@ -5,7 +5,9 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:netproject2.ViewModels" 
         mc:Ignorable="d"
-        Title="LoginView" Height="450" Width="800">
+        Title="LoginView" Height="450" Width="800" MinWidth="300"
+MinHeight="200"
+ResizeMode="CanResize">
     <Window.DataContext>
         <local:LoginViewModel />
     </Window.DataContext>
