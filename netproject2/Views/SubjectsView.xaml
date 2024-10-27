@@ -1,4 +1,4 @@
-﻿<Window x:Class="netproject2.Views.SubjectsView"
+<Window x:Class="netproject2.Views.SubjectsView"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
@@ -257,17 +257,7 @@
             </TabItem>
 
 
-            <!-- Tab for Timetable -->
-            <TabItem Header="Timetable">
-                <Grid>
-                    <!-- Add your Timetable content here -->
-                    <TextBlock Text="Timetable Section"
-                               HorizontalAlignment="Center" 
-                               VerticalAlignment="Center" 
-                               FontSize="16" 
-                               FontWeight="Bold"/>
-                </Grid>
-            </TabItem>
+       
 
             <!-- Tab for Logout -->
             <TabItem Header="Logout">
